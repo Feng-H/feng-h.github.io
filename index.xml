@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://blog.851127.xyz/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 19 Dec 2025 13:19:22 +0800</lastBuildDate>
+    <atom:link href="https://blog.851127.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://blog.851127.xyz/posts/my-first-post/</link>
+      <pubDate>Fri, 19 Dec 2025 13:19:22 +0800</pubDate>
+      <guid>https://blog.851127.xyz/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;hello-hugo&#34;&gt;Hello Hugo!&lt;/h1&gt;&#xA;&lt;h2 id=&#34;this-is-first-post&#34;&gt;this is first post!&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>
